@@ -1,5 +1,3 @@
-# password-suggestion
-suggest a strong passwords
 
 # 🔐 Password Generator in Python
 
